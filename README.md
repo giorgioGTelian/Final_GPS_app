@@ -24,4 +24,4 @@ All core classes such are easily extendable by the users to address custom use c
 
 
 <h3>So probably i will use py deck</h3>
-[Pydeck](https://pydeck.gl/)
+[Pydeck](https://pydeck.gl)
