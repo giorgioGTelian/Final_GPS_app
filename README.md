@@ -1,5 +1,5 @@
-## work in progress SOFTWARE USED 
-
+##  📣 work in progress 
+<h3>SOFTWARE USED</h3>
 
 <h2>DEck.gl</h2>
 
@@ -23,20 +23,25 @@ Deck.gl is designed to be highly customizable.
 All core classes such are easily extendable by the users to address custom use cases.
 
 
-## So probably i will use py deck
+## 💡 So probably i will use py deck
 [Pydeck](https://pydeck.gl)
 
-## SO FAR:
+## ✨ SO FAR:
 experimenting with layers:
 
 https://pydeck.gl/layer.html
 
-## layer overview:
+## 🦊 layer overview:
 
 https://deckgl.readthedocs.io/en/latest/layer.html 
 
-## choose the gallery:
+## 🐞  choose the gallery:
 https://deckgl.readthedocs.io/en/latest/
 
-## 3D view of the map:
+## 💻 3D view of the map:
 https://geemap.org/notebooks/107_pydeck/ 
+
+## TO DO 📋
+- take the shapefile that interested me 
+- use the same code as before 
+- think about the best way to display data 
