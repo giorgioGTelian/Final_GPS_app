@@ -25,11 +25,16 @@ All core classes such are easily extendable by the users to address custom use c
 
 ##So probably i will use py deck
 [Pydeck](https://pydeck.gl)
+
 ## SO FAR:
 experimenting with layers:
+
 https://pydeck.gl/layer.html
+
 ##layer overview:
+
 https://deckgl.readthedocs.io/en/latest/layer.html 
+
 ##choose the gallery:
 https://deckgl.readthedocs.io/en/latest/
 
