@@ -1,4 +1,4 @@
-                                      ## work in progress -- SOFTWARE USED --
+## work in progress SOFTWARE USED 
 
 
 <h2>DEck.gl</h2>
