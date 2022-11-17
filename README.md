@@ -1,4 +1,4 @@
-                                      <h1> work in progress -- SOFTWARE USED -- </h1>
+                                      ## work in progress -- SOFTWARE USED --
 
 
 <h2>DEck.gl</h2>
@@ -23,5 +23,15 @@ Deck.gl is designed to be highly customizable.
 All core classes such are easily extendable by the users to address custom use cases.
 
 
-<h3>So probably i will use py deck</h3>
+##So probably i will use py deck
 [Pydeck](https://pydeck.gl)
+## SO FAR:
+experimenting with layers:
+https://pydeck.gl/layer.html
+##layer overview:
+https://deckgl.readthedocs.io/en/latest/layer.html 
+##choose the gallery:
+https://deckgl.readthedocs.io/en/latest/
+
+## 3D view of the map:
+https://geemap.org/notebooks/107_pydeck/ 
