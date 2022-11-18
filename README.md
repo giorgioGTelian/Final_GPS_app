@@ -57,3 +57,6 @@ https://geemap.org/notebooks/107_pydeck/
   <br>
 - user gudes https://docs.kepler.gl/docs/user-guides 
 </h3>
+
+weather?
+https://www.weatherapi.com/docs/
