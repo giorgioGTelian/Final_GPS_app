@@ -50,7 +50,10 @@ https://geemap.org/notebooks/107_pydeck/
 ## 🧪 MAYBE WE COULD USE KEPLER INSTEAD?
 <h3>
 - https://kepler.gl/ <br> 
+  <br>
 - DOCU ON GITHUB https://github.com/keplergl/kepler.gl <br>
+  <br>
 - API REFERENCE https://docs.kepler.gl/docs/api-reference <br>
+  <br>
 - user gudes https://docs.kepler.gl/docs/user-guides 
 </h3>
