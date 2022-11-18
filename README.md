@@ -33,6 +33,7 @@ https://pydeck.gl/layer.html
 
 ## 🦊 layer overview:
 
+
 https://deckgl.readthedocs.io/en/latest/layer.html 
 
 ## 🐞  choose the gallery:
@@ -45,3 +46,11 @@ https://geemap.org/notebooks/107_pydeck/
 - take the shapefile that interested me 
 - use the same code as before 
 - think about the best way to display data 
+
+## 🧪 MAYBE WE COULD USE KEPLER INSTEAD?
+<h3>
+- https://kepler.gl/
+- DOCU ON GITHUB https://github.com/keplergl/kepler.gl
+- API REFERENCE https://docs.kepler.gl/docs/api-reference
+- user gudes https://docs.kepler.gl/docs/user-guides
+</h3>
